@@ -1,0 +1,130 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none"
+  xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Manjit Pokhrel">
+
+  <rect width="1200" height="320" fill="#FFFFFF"/>
+
+  <rect x="24" y="24" width="1152" height="272" rx="2"
+    stroke="#D0D7DE" stroke-width="1"/>
+
+  <line x1="24" y1="24" x2="64" y2="24" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="24" y1="24" x2="24" y2="64" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="1176" y1="24" x2="1136" y2="24" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="1176" y1="24" x2="1176" y2="64" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+
+  <line x1="24" y1="296" x2="64" y2="296" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="24" y1="296" x2="24" y2="256" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="1176" y1="296" x2="1136" y2="296" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="1176" y1="296" x2="1176" y2="256" stroke="#111827" stroke-width="1.5" stroke-opacity="0.8"/>
+
+  <text x="60" y="58"
+    fill="#57606A"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="11"
+    letter-spacing="3">KATHMANDU · NEPAL</text>
+
+  <text x="1140" y="58" text-anchor="end"
+    fill="#57606A"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="11"
+    letter-spacing="3">INDEPENDENT RESEARCHER</text>
+
+  <line x1="60" y1="68" x2="1140" y2="68"
+    stroke="#D0D7DE" stroke-width="1"/>
+
+  <text x="600" y="148" text-anchor="middle"
+    fill="#111827"
+    font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+    font-size="52"
+    font-weight="700"
+    letter-spacing="10">MANJIT POKHREL</text>
+
+  <text x="600" y="185" text-anchor="middle"
+    fill="#57606A"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="13"
+    letter-spacing="2.4">ADVERSARIAL ML · AI SECURITY · GPU KERNEL OPTIMIZATION</text>
+
+  <rect x="60" y="206" width="1080" height="1" fill="#D0D7DE"/>
+  <rect x="60" y="205.5" width="140" height="2" rx="1" fill="#111827" opacity="0.5">
+    <animate attributeName="x"
+      values="60;980;60"
+      dur="6s"
+      keyTimes="0;0.5;1"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      calcMode="spline"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.15;0.7;0.15"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="60" cy="206" r="2.5" fill="#111827">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1140" cy="206" r="2.5" fill="#111827">
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="894" y="122" width="5" height="36" fill="#111827" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0;0.7" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="310" y="248" text-anchor="middle"
+    fill="#111827"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="20"
+    font-weight="700"
+    letter-spacing="1">73.7%</text>
+  <text x="310" y="266" text-anchor="middle"
+    fill="#57606A"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="10"
+    letter-spacing="2">NEPALI BYPASS RATE</text>
+
+  <line x1="490" y1="240" x2="490" y2="272"
+    stroke="#D0D7DE" stroke-width="1"/>
+
+  <text x="600" y="248" text-anchor="middle"
+    fill="#111827"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="20"
+    font-weight="700"
+    letter-spacing="1">1,200+</text>
+  <text x="600" y="266" text-anchor="middle"
+    fill="#57606A"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="10"
+    letter-spacing="2">ADVERSARIAL PROBES</text>
+
+  <line x1="710" y1="240" x2="710" y2="272"
+    stroke="#D0D7DE" stroke-width="1"/>
+
+  <text x="890" y="248" text-anchor="middle"
+    fill="#111827"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="20"
+    font-weight="700"
+    letter-spacing="1">110.5%</text>
+  <text x="890" y="266" text-anchor="middle"
+    fill="#57606A"
+    font-family="JetBrains Mono, Menlo, monospace"
+    font-size="10"
+    letter-spacing="2">RTX 5060 SPEEDUP</text>
+
+  <line x1="60" y1="282" x2="1140" y2="282"
+    stroke="#D0D7DE" stroke-width="1"/>
+
+  <rect x="44" y="88" width="1" height="144" fill="#111827">
+    <animate attributeName="opacity"
+      values="0.03;0.12;0.03"
+      dur="4.8s"
+      repeatCount="indefinite"/>
+  </rect>
+  <rect x="1155" y="88" width="1" height="144" fill="#111827">
+    <animate attributeName="opacity"
+      values="0.12;0.03;0.12"
+      dur="4.8s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
