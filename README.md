@@ -111,6 +111,8 @@ Linux · Git · Docker · HuggingFace Spaces
 ## Education
 
 Kathmandu University  
-BSc Computer Science — Expected 2029  
+BSc Computer Science
+
+---
 
 Focus: Adversarial ML · AI Security · GPU Systems Optimization · Transformer Architectures
