@@ -1,6 +1,6 @@
 # Manjit Pokhrel
 
-**Adversarial ML Researcher · AI Security · GPU Systems**
+**Adversarial ML Researcher · AI Security · Interface Optimization**
 
 Kathmandu, Nepal  
 [manjitpokhrel.com.np](https://manjitpokhrel.com.np) ·
