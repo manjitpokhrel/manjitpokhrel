@@ -30,7 +30,7 @@ Currently investigating:
 ## Selected Contributions
 
 ### NASB — Nepali Adversarial Safety Benchmark  
-[Paper (Zenodo)]([INSERT_DOI_LINK](https://zenodo.org/records/19764520)) · [Code]([INSERT_GITHUB_LINK](https://github.com/manjitpokhrel))
+[Paper (Zenodo)](https://zenodo.org/records/19764520) · [Code](https://github.com/manjitpokhrel)
 
 First structured adversarial safety benchmark for Nepali-language LLMs.
 
@@ -44,7 +44,7 @@ First structured adversarial safety benchmark for Nepali-language LLMs.
 ---
 
 ### GhostWeight  
-[PyPI]([INSERT_PYPI_LINK](https://pypi.org/project/ghostweight/)) · [Code]([INSERT_GITHUB_LINK](https://github.com/manjitpokhrel/GhostWeight))
+[PyPI](https://pypi.org/project/ghostweight/) · [Code](https://github.com/manjitpokhrel/GhostWeight)
 
 Training-free activation sparsity framework for LLM inference.
 
@@ -86,11 +86,11 @@ patterns unique to self-attention.
 
 | Year | Work | Venue |
 |------|------|-------|
-| 2026 | *Lost in Translation: Safety Alignment Failures in Nepali and Code-Switched Variants of Instruction-Tuned LLMs* | [Zenodo]([INSERT_LINK](https://zenodo.org/records/19764520)) |
-| 2026 | *GhostWeight: Training-Free Activation Sparsity for LLM Inference* | [PyPI]([INSERT_LINK](https://pypi.org/project/ghostweight/)) / [GitHub]([INSERT_LINK](https://github.com/manjitpokhrel/GhostWeight)) |
+| 2026 | *Lost in Translation: Safety Alignment Failures in Nepali and Code-Switched Variants of Instruction-Tuned LLMs* | [Zenodo](https://zenodo.org/records/19764520) |
+| 2026 | *GhostWeight: Training-Free Activation Sparsity for LLM Inference* | [PyPI](https://pypi.org/project/ghostweight/)) / [GitHub](https://github.com/manjitpokhrel/GhostWeight) |
 | 2026 | Multilingual Alignment Bypass Disclosure | Google AI VRP (Triaged) |
 | 2026 | Multilingual Safety Asymmetry Disclosure | Meta Whitehat |
-| 2026 | *The Eleventh Way In* (essay) | [Medium]([INSERT_LINK](https://medium.com/@manjitpokhrel42/the-eleventh-way-in-c590236fc249)) |
+| 2026 | *The Eleventh Way In* (essay) | [Medium](https://medium.com/@manjitpokhrel42/the-eleventh-way-in-c590236fc249) |
 
 ---
 
