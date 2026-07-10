@@ -134,6 +134,6 @@ RTX 5060 8GB (Blackwell, sm_120) · Ryzen 7 7700 (Zen 4) · 16GB DDR5
 ## Education
 
 **Kathmandu University**  
-BSc Computer Science (Expected 2029)
+BSc Computer Science (Expected 2029) 
 
 ---
