@@ -4,6 +4,7 @@
 
 Kathmandu, Nepal · MLCommons Contributor  
 [manjitpokhrel.com.np](https://manjitpokhrel.com.np) · 
+[GoogleScholar](https://scholar.google.com/citations?user=NaxYesYAAAAJ&hl=en)
 [Email](mailto:manjitpokhrel42@gmail.com) · 
 [LinkedIn](https://linkedin.com/in/manjitpokhrel) · 
 [ResearchGate](https://www.researchgate.net/profile/Manjit-Pokhrel?ev=hdr_xprf) · 
